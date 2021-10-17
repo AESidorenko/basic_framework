@@ -1,0 +1,15 @@
+{
+    "name": "asidorenko/php_app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ASidorenko",
+            "email": "sidorenko.ae@gazprom-neft.ru"
+        }
+    ],
+    "require": {}
+}
